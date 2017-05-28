@@ -1,2 +1,4 @@
 .floydexpt
 .floydignore
+__pycache__/
+command.sh
